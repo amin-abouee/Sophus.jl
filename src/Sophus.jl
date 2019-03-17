@@ -1,5 +1,5 @@
 module Sophus
 
-greet() = print("Hello World!")
+include("so2.jl")
 
 end # module
